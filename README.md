@@ -7,11 +7,8 @@ A simple, customizable Jquery slider or image fade gallery
 License
 ============
 
-Licensed under the WTFPL license http://www.wtfpl.net/
+GNU GENERAL PUBLIC LICENSE
 Copyright (C) 2014 Corbin Nakamura http://www.creativeenhance.com
-Everyone is permitted to copy and distribute verbatim or modified
-copies of this license document, and changing it is allowed as long
-as the name is changed. 
 
 #### Features:
  * Fade or slider options
