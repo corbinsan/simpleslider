@@ -28,16 +28,4 @@ as the name is changed.
 Basic Usage
 ============
 
- $("#slider").slider({
-            width: 1200,
-            height: 369,
-            speed: 700,
-            easing: 'easeOutExpo',
-            nav: true,
-            start: 1,
-            play: {
-                auto: true,
-                interval: 2000
-                  },
-            effect: 'fade'
-            });
+see simpleslider.min.js
