@@ -22,6 +22,11 @@ Copyright (C) 2014 Corbin Nakamura http://www.creativeenhance.com
  * Choose a starting slide
  * Slideshow paused on hover
 
+Demo
+============
+http://creativeenhance.com/simpleslider/
+
+
 Basic Usage
 ============
 
@@ -45,6 +50,3 @@ Options
 * effect: 'slide' - type: string, 'slide' or 'fade'
 
 
-Demo
-============
-http://creativeenhance.com/simpleslider/
