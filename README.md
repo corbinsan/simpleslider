@@ -34,7 +34,7 @@ Options
 * width - type: number, width of slideshow
 * height - type: number, height of slideshiw
 * speed - type: number, speed of transition (both slide and fade)
-* easing - type: string, supports easing equasions
+* easing - type: string, supports easing equations
 * nav: - type: boolean, show or hide paginaiton 
 * start: - type: number, starting slide
 * play: - type: object:
