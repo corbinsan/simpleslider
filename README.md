@@ -26,3 +26,7 @@ Basic Usage
 ============
 
 see simpleslider.min.js
+
+Demo
+============
+http://creativeenhance.com/simpleslider/
