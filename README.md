@@ -8,10 +8,13 @@ License
 ============
 
 Licensed under the WTFPL license http://www.wtfpl.net/
+
   Copyright (C) 2014 Corbin Nakamura <corbin@creativeenhance.com> 
 
   Everyone is permitted to copy and distribute verbatim or modified 
+  
   copies of this license document, and changing it is allowed as long 
+  
   as the name is changed. 
 
 #### Features:
