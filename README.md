@@ -16,8 +16,16 @@ as the name is changed.
 #### Features:
  * Fade or slider options
  * 10kb minified and gzip
+ * Simple markup using standard HTML img tags
+ * Settings for timeout durations
+ * Settings for speed of animations
+ * Multiple slideshows supported
+ * Works in all major desktop and mobile browsers
+ * Add or remove next/prev controls
+ * Choose a starting slide
+ * Slideshow paused on hover
 
-Usage
+Basic Usage
 ============
 
  $("#slider").slider({
