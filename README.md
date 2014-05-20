@@ -27,6 +27,24 @@ Basic Usage
 
 see simpleslider.min.js
 
+Options
+============
+
+
+* width - type: number, width of slideshow
+* height - type: number, height of slideshiw
+* speed - type: number, speed of transition (both slide and fade)
+* easing - type: string, supports easing equasions
+* nav: - type: boolean, show or hide paginaiton 
+* start: - type: number, starting slide
+* play: - type: object:
+* {
+*    auto: false, - type: boolean, auto play slideshow
+*    interval: 3000 - type: number, how fast slideshow plays in miliseconds
+* }
+* effect: 'slide' - type: string, 'slide' or 'fade'
+
+
 Demo
 ============
 http://creativeenhance.com/simpleslider/
