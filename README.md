@@ -16,7 +16,7 @@ A simple, customizable Jquery slider or image fade gallery
 
 */
 
-USAGE
+Usage
 ============
 
  $("#slider").slider({
